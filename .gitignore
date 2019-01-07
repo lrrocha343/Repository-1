@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+FPSLevel/Saved/Config/Windows/Scalability.ini
+FPSLevel/Intermediate/Config/CoalescedSourceConfigs/VisualStudioSourceCodeAccess.ini
+FPSLevel/Intermediate/Config/CoalescedSourceConfigs/NetcodeUnitTest.ini
+FPSLevel/Saved/Config/Windows/PhysXVehicles.ini
+FPSLevel/Saved/
+FPSLevel/Intermediate/
